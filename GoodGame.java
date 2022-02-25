@@ -33,6 +33,7 @@ public class GoodGame
                 good1.moveXleft();
             }
             game2.pause();
+            //hello
         }
     }
 }
